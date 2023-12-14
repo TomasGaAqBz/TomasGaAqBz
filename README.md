@@ -1,4 +1,3 @@
-### Hi there 👋
 # ¡Hola, soy Tomas Aquino! 👋
 
 ## Acerca de mí
