@@ -14,8 +14,8 @@ Soy un Desarrollador Full Stack apasionado por la creación de soluciones web in
 
 ## Proyectos Destacados
 
-- 🚀 [Proyecto Integrador Henry]([Enlace al Proyecto 1](https://github.com/TomasGaAqBz/Pi-Henry-Countries))
-- 💡 [Proyecto Landing Page para Nancy Barboza ]([Enlace al Proyecto 2](https://github.com/TomasGaAqBz/TA-proyecto-NB))
+- 🚀 [Proyecto Integrador Henry](https://github.com/TomasGaAqBz/Pi-Henry-Countries)
+- 💡 [Proyecto Landing Page para Nancy Barboza ](https://github.com/TomasGaAqBz/TA-proyecto-NB)
 
 ## Estadísticas de GitHub
 
@@ -23,6 +23,6 @@ Soy un Desarrollador Full Stack apasionado por la creación de soluciones web in
 
 ## Contacto
 
-¡Conéctate conmigo en [LinkedIn]([Enlace a tu LinkedIn](https://www.linkedin.com/in/tomas-gabriel-aquino-bajusz/)https://www.linkedin.com/in/tomas-gabriel-aquino-bajusz/)!
+¡Conéctate conmigo en [LinkedIn](https://www.linkedin.com/in/tomas-gabriel-aquino-bajusz/)!
 
 ¡Gracias por visitar mi perfil! 😊
