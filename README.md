@@ -1,16 +1,28 @@
 ### Hi there 👋
+# ¡Hola, soy Tomas Aquino! 👋
 
-<!--
-**TomasGaAqBz/TomasGaAqBz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Acerca de mí
 
-Here are some ideas to get you started:
+Soy un Desarrollador Full Stack apasionado por la creación de soluciones web innovadoras. Mi enfoque combina habilidades técnicas sólidas con una mentalidad creativa y un compromiso constante con el aprendizaje.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías y Herramientas
+
+- Frontend: HTML, CSS, JavaScript, React, Redux, Boostrap
+- Backend: Node.js, Express
+- Base de Datos: PostgresSQL, MySQL
+- Otros: Git, GitHub
+
+## Proyectos Destacados
+
+- 🚀 [Proyecto Integrador Henry]([Enlace al Proyecto 1](https://github.com/TomasGaAqBz/Pi-Henry-Countries))
+- 💡 [Proyecto Landing Page para Nancy Barboza ]([Enlace al Proyecto 2](https://github.com/TomasGaAqBz/TA-proyecto-NB))
+
+## Estadísticas de GitHub
+
+[![Mis Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TomasGaAqBz&show_icons=true&theme=radical)](https://github.com/TomasGaAqBz)
+
+## Contacto
+
+¡Conéctate conmigo en [LinkedIn]([Enlace a tu LinkedIn](https://www.linkedin.com/in/tomas-gabriel-aquino-bajusz/)https://www.linkedin.com/in/tomas-gabriel-aquino-bajusz/)!
+
+¡Gracias por visitar mi perfil! 😊
